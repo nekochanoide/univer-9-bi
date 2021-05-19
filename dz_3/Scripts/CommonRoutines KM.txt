@@ -1,0 +1,8 @@
+SUB GenerateQVD(TableName, FilePath)
+	[$(TableName)]:
+	SQL SELECT * FROM `$(TableName)`;
+	IF NoOfRows('$(TableName)') > 0 THEN
+	    STORE [$(TableName)] INTO [$(vQVDPath)$(TableName).QVD];
+	END IF
+	DROP TABLE [$(TableName)];
+END SUB
