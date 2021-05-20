@@ -3,4 +3,5 @@
 ## Добавленные файлы
 
 - [inventory expressions](<./data loaders/inventory expressions km.qvw>)
-- [invenotry variables](<./metadata/inventory variables km.txt>)
+- [inventory variables](<./metadata/inventory variables km.txt>)
+- [profitability data](<./data models/profitability data km.qvw>)
