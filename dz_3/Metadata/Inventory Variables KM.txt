@@ -1,0 +1,17 @@
+﻿e,CYTD
+filter_CMTD,_CMTD_Flag = {1}
+filter_CYTD,_CYTD_Flag = {1}
+filter_PM,_PM_Flag = {1}
+filter_PMTD,_PMTD_Flag = {1}
+filter_PR12,_PR12_Flag = {1}
+filter_PR3,_PR3_Flag = {1}
+filter_PR6,_PR6_Flag = {1}
+filter_PYR3,_PYR3_Flag = {1}
+filter_PYR6,_PYR6_Flag = {1}
+filter_PYTD,_PYTD_Flag = {1}
+filter_R12,_R12_Flag = {1}
+filter_R3,_R3_Flag = {1}
+filter_R6,_R6_Flag = {1}
+SET,_filter_CMTD_Flag = {1}
+vFilter,
+vFilterDefinition,
